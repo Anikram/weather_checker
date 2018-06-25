@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MMWEATHER>
+  <REPORT type="frc3">
+    <TOWN index="37" sname="%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" latitude="56" longitude="38">
+      <FORECAST day="25" month="06" year="2018" hour="09" tod="1" predict="0" weekday="2">
+        <PHENOMENA cloudiness="1" precipitation="10" rpower="0" spower="0"/>
+        <PRESSURE max="763" min="761"/>
+        <TEMPERATURE max="20" min="14"/>
+        <WIND min="1" max="2" direction="7"/>
+        <RELWET max="87" min="56"/>
+
+        <HEAT min="14" max="14"/>
+      </FORECAST>
+      <FORECAST day="25" month="06" year="2018" hour="15" tod="2" predict="0" weekday="2">
+        <PHENOMENA cloudiness="1" precipitation="10" rpower="0" spower="0"/>
+        <PRESSURE max="764" min="763"/>
+        <TEMPERATURE max="23" min="21"/>
+        <WIND min="1" max="2" direction="6"/>
+        <RELWET max="52" min="46"/>
+
+        <HEAT min="21" max="21"/>
+      </FORECAST>
+      <FORECAST day="25" month="06" year="2018" hour="21" tod="3" predict="0" weekday="2">
+        <PHENOMENA cloudiness="1" precipitation="10" rpower="0" spower="0"/>
+        <PRESSURE max="765" min="764"/>
+        <TEMPERATURE max="22" min="17"/>
+        <WIND min="1" max="1" direction="7"/>
+        <RELWET max="61" min="47"/>
+
+        <HEAT min="16" max="16"/>
+      </FORECAST>
+      <FORECAST day="26" month="06" year="2018" hour="03" tod="0" predict="0" weekday="3">
+        <PHENOMENA cloudiness="0" precipitation="10" rpower="0" spower="0"/>
+        <PRESSURE max="767" min="765"/>
+        <TEMPERATURE max="16" min="15"/>
+        <WIND min="1" max="1" direction="7"/>
+        <RELWET max="78" min="65"/>
+
+        <HEAT min="14" max="14"/>
+      </FORECAST>
+    </TOWN>
+  </REPORT>
+</MMWEATHER>
